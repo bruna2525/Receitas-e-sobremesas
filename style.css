@@ -1,0 +1,47 @@
+*{ 
+   margin: 0px;
+   padding: 0px;
+     
+}
+
+#area-cabeçalho{  
+    padding: 20px;
+    text-align: left;
+    
+}
+
+h1{
+    color: green;
+}
+
+
+body{
+    padding:  25px;
+    font-size: 25px;
+    background-image: url('imagens/comida.jpg');
+    background-repeat:no-repeat;
+    background-size: 55cm;
+}
+
+h2{
+     color: orange;
+
+}
+
+#postagem{
+    display: flex;
+
+
+}
+
+.ingredientes{
+    padding: 60px;
+}
+
+figure{
+    padding-top: 25px;
+}
+
+#area-lateral{
+    display: flex;
+}
